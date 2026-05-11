@@ -1,97 +1,60 @@
-## Hi there 👋 I'm Inthira
+# Hi there 👋 I'm Inthira
 
-🎓 B.Tech Computer Science & Engineering (2025)  
-💻 Software Developer | Backend Developer 
-SAP CERTIFIED ON  ABAP BACKEND DEVELOPER
+**B.Tech Computer Science & Engineering (2025)**  
+**SAP Certified Associate – ABAP Backend Developer**
 
----
-# ABAP-
-🧩 Modern ABAP Practice – Hands-On Experience
-
-I’m actively practicing Modern ABAP on SAP HANA, focusing on real development scenarios using:
-
-CDS Views, Annotations, AMDP, and performance-optimized data modeling
-
-RAP (Restful ABAP Programming Model) for building end-to-end, cloud-ready business services
-
-Fiori Elements and OData V4 to deliver intuitive, metadata-driven UIs
-
-SAP BTP for exploring cloud extensions, deployments, and modern SAP development workflows
-
-This ongoing practice is helping me build a strong foundation in modern SAP application development, following clean-core principles and cloud-native patterns
-
-
-## 🔭 Projects
-
-### 🛒 E-Commerce Application (Spring Boot)
-- Developed a backend e-commerce system using **Spring Boot**
-- Implemented product, customer, and order management
-- Integrated **MySQL** database
-- Followed layered architecture (Controller, Service, Repository)
+I am a backend-focused Software Developer specializing in **Modern ABAP on SAP HANA** and **Java/Spring Boot** ecosystems. I bridge the gap between traditional enterprise logic and modern cloud-native architecture, focusing on high-performance data modeling and "Clean Core" development.
 
 ---
 
-### ⚙️ Resource Assessment of Microservices  
-**Docker Containers vs Virtual Machines**
-- Deployed **Spring Boot microservices** on Docker and Virtual Machines
-- Performed load testing using **Apache JMeter**
-- Analyzed CPU, memory, and I/O utilization
-- Compared performance efficiency between containerized and virtualized environments
+## 🧩 Modern ABAP Practice
+*Transforming enterprise logic into cloud-ready business services.*
+
+I am actively practicing Modern ABAP on SAP HANA, focusing on real-world development scenarios:
+
+*   **RAP (ABAP RESTful Programming Model):** Building end-to-end, cloud-ready business services.
+*   **Performance-Optimized Modeling:** Utilizing **CDS Views**, Annotations, and **AMDP** for efficient data handling.
+*   **Modern Connectivity:** Delivering metadata-driven UIs via **OData V4** and **SAP Fiori Elements**.
+*   **SAP BTP:** Exploring cloud extensions and modern SAP development workflows following clean-core principles.
+
 
 ## 🛠️ Skills & Tools
 
-### 💻 Programming Languages
+### 💻 Programming & Frameworks
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sap/sap-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" title="Java"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40" title="Spring Boot"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sap/sap-original.svg" width="40" title="SAP ABAP"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" title="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" title="JavaScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="40" title="Django"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" title="Node.js"/>
 </p>
 
-### 🌐 Frameworks & Technologies
+### 🗄️ Databases & DevOps
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sap/sap-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" title="MySQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" title="Docker"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" title="Git"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" title="GitHub"/>
 </p>
-
-### 🗄️ Databases
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sap/sap-original.svg" width="40"/>
-</p>
-
-### ☁️ Tools, DevOps & Cloud
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/>
-</p>
-
-
-## 📘 SAP ABAP on HANA – Topics I Know
-- ABAP Dictionary (Tables, Views, Data Elements)
-- Open SQL & Native SQL
-- Internal Tables & Performance Optimization
-- CDS Views (Basic & Composite)
-- AMDP (ABAP Managed Database Procedures)
-- OData Services
-- RAP Basics
-- SAP Fiori Integration
-- ABAP on HANA Code Pushdown Concept
 
 ---
 
-## 🔗 Coding & Professional Profiles
-- 💡 **LeetCode:** https://leetcode.com/u/inthira0317/
-- 💼 **LinkedIn:** https://www.linkedin.com/in/bminthira/
+## 📘 SAP ABAP on HANA Competencies
+- **Core:** ABAP Dictionary, Open SQL, Internal Tables.
+- **HANA:** Code Pushdown, CDS Views (Basic & Composite), AMDP.
+- **Integration:** OData Services, RAP Basics, SAP Fiori Integration.
+- **Optimization:** Advanced Performance Tuning & Native SQL.
+
+---
+
+## 🔗 Let's Connect
+- 💼 **LinkedIn:** [linkedin.com/in/bminthira](https://www.linkedin.com/in/bminthira/)
+- 💡 **LeetCode:** [inthira0317](https://leetcode.com/u/inthira0317/)
 - 📧 **Email:** inthira0317@gmail.com
 
 ---
 
-## ⚡ Fun fact
-I enjoy comparing system performance just as much as building backend logic 🚀
+## ⚡ Fun Fact
+I’m a "performance detective." Whether it’s optimizing a complex SQL join or benchmarking Docker containers, I find a strange satisfaction in shaving milliseconds off an execution time. 🚀

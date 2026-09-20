@@ -2,29 +2,6 @@
 
 ### 1. `README.md`
 
-Create/update:
-
-`inthira0317/inthira0317/README.md`
-
-Then paste this:
-
-```markdown
-<!-- ===================================================== -->
-<!--                    HEADER                             -->
-<!-- ===================================================== -->
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0FAAFF,50:087EA4,100:005B82&height=220&section=header&text=Inthira%20Priyatharshini&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=SAP%20ABAP%20Developer&descAlignY=58&descSize=20&animation=fadeIn" width="100%"/>
-
-<br>
-
-<a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=0FAAFF&center=true&vCenter=true&width=700&lines=SAP+ABAP+Developer;Classical+ALV+%7C+Smart+Forms+%7C+Open+SQL;SAP+MM+%7C+SAP+HR;Building+Business+Solutions+with+ABAP" />
-</a>
-
-<br><br>
-
 <a href="https://www.linkedin.com/in/bminthira">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
@@ -39,25 +16,6 @@ Then paste this:
 
 </div>
 
----
-
-<!-- ===================================================== -->
-<!--                    ABOUT                               -->
-<!-- ===================================================== -->
-
-## 👋 About Me
-
-```text
-SAP ABAP Developer
-│
-├── SAP MM
-│   ├── Purchase Orders
-│   ├── Service Entry Sheets
-│   ├── Vendor & Invoice Data
-│   └── ALV Reporting
-│
-├── SAP HR
-│   ├── Employee Eligibility
 │   ├── Loan Processing
 │   ├── Repayment Plans
 │   └── Accrued Interest

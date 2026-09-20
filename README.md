@@ -139,27 +139,6 @@ My interests include:
   alt="Inthira's GitHub statistics"
 />
 
-<img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=inthira0317&layout=compact&theme=default&bg_color=F5F7F9&title_color=354A5F&text_color=1B1F23&icon_color=00A6A6&border_color=D9E0E6"
-  height="170"
-  alt="Inthira's most used languages"
-/>
-
-<br><br>
-
-<img
-  src="https://github-readme-streak-stats.herokuapp.com/?user=inthira0317&theme=default&background=F5F7F9&ring=00A6A6&fire=E76500&currStreakLabel=354A5F&sideLabels=354A5F&currStreakNum=1B1F23&sideNums=1B1F23&dates=68737D&border=D9E0E6"
-  height="170"
-  alt="Inthira's GitHub streak"
-/>
-
-<br><br>
-
-<img
-  src="https://komarev.com/ghpvc/?username=inthira0317&label=Profile%20Views&color=00A6A6&style=for-the-badge"
-  alt="Profile views"
-/>
-
 </div>
 
 ## 🤝 Let's Connect

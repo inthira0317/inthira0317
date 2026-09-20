@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:005B82,50:087EA4,100:0FAAFF&height=150&section=header&text=Hi%20There%20👋&fontSize=45&fontColor=ffffff" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:005B82,50:087EA4,100:0FAAFF&height=150&section=header" width="100%"/>
 
 <a href="https://readme-typing-svg.demolab.com/">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=26&pause=1000&color=0FAAFF&center=true&vCenter=true&width=650&lines=SAP+ABAP+Developer;RICEF+%2B+Modern+ABAP;Java+Developer;C%2B%2B+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=26&pause=1000&color=0FAAFF&center=true&vCenter=true&width=650&lines=I'm+Inthira+Priyatharshini;I'm+a+SAP+ABAP+Developer" alt="Typing SVG" />
 </a>
 
 <br>
@@ -48,12 +48,16 @@ Currently deepening my skills in **Modern ABAP**: OO ABAP, CDS Views, OData, RAP
 
 ---
 
-### 📈 GitHub Stats
+### 📈 GitHub Stats <sub>(live, updates on every visit)</sub>
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=inthira0317&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="170"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=inthira0317&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api?username=inthira0317&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&cache_seconds=0" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=inthira0317&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=0" height="170"/>
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=inthira0317&label=Profile%20Views&color=0FAAFF&style=for-the-badge" />
 
 </div>
 
@@ -61,8 +65,9 @@ Currently deepening my skills in **Modern ABAP**: OO ABAP, CDS Views, OData, RAP
 
 <div align="center">
 
-### `ABAP • Java • C++ `
+### `ABAP • Java • C++ • Debug • Build • Improve 🚀`
 
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:005B82,50:087EA4,100:0FAAFF&height=120&section=footer" width="100%"/>
+

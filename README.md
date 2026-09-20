@@ -1,4 +1,3 @@
-
 <div align="center">
 
 <img
@@ -17,22 +16,13 @@
 <br><br>
 
 <a href="https://www.linkedin.com/in/bminthira">
-  <img
-    src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
-    alt="LinkedIn"
-  />
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 <a href="https://github.com/inthira0317">
-  <img
-    src="https://img.shields.io/badge/GitHub-Profile-1B1F23?style=for-the-badge&logo=github&logoColor=white"
-    alt="GitHub"
-  />
+  <img src="https://img.shields.io/badge/GitHub-Profile-1B1F23?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 <a href="https://leetcode.com/u/inthira0317/">
-  <img
-    src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"
-    alt="LeetCode"
-  />
+  <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
 </a>
 
 </div>
@@ -41,9 +31,9 @@
 
 ## 🙋 About Me
 
-Hi, I'm **Inthira Priyatharshini**, a passionate **SAP ABAP Developer** focused on building reliable, scalable and business-oriented enterprise solutions.
+Hi, I'm **Inthira Priyatharshini**, a passionate **SAP ABAP Developer** focused on building reliable, scalable, and business-oriented enterprise solutions.
 
-I enjoy transforming business requirements into efficient SAP applications using clean code, structured development practices and modern SAP technologies.
+I enjoy transforming business requirements into efficient SAP applications using clean code, structured development practices, and modern SAP technologies.
 
 My interests include:
 
@@ -56,7 +46,7 @@ My interests include:
 - SAP Fiori
 - ABAP Cloud
 - SAP Business Technology Platform
-
+- Problem-solving and algorithmic thinking
 
 ## 🛠️ Technical Skills
 
@@ -108,38 +98,57 @@ My interests include:
 - SAP Fiori application development
 - ABAP Cloud
 - SAP BTP
+- Data structures and algorithms
 
 ## 💻 Coding Profiles
 
 <div align="center">
 
 <a href="https://github.com/inthira0317">
-  <img
-    src="https://img.shields.io/badge/GitHub-Explore_My_Code-1B1F23?style=for-the-badge&logo=github&logoColor=white"
-    alt="Explore my GitHub"
-  />
+  <img src="https://img.shields.io/badge/GitHub-Explore_My_Code-1B1F23?style=for-the-badge&logo=github&logoColor=white" alt="Explore my GitHub"/>
 </a>
 <a href="https://leetcode.com/u/inthira0317/">
-  <img
-    src="https://img.shields.io/badge/LeetCode-Solve_Problems-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"
-    alt="Solve problems on LeetCode"
-  />
+  <img src="https://img.shields.io/badge/LeetCode-Solve_Problems-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="Solve problems on LeetCode"/>
 </a>
 
 </div>
 
+---
 
 ## 📊 GitHub Statistics
 
+These cards are generated dynamically from my GitHub activity and refresh automatically.
+
 <div align="center">
 
-<img
-  src="https://github-readme-stats.vercel.app/api?username=inthira0317&show_icons=true&theme=default&bg_color=F5F7F9&title_color=354A5F&text_color=1B1F23&icon_color=00A6A6&border_color=D9E0E6&rank_icon=github"
-  height="170"
-  alt="Inthira's GitHub statistics"
-/>
+<a href="https://github.com/inthira0317">
+  <img src="https://github-readme-stats.vercel.app/api?username=inthira0317&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&hide_border=true&bg_color=F5F7F9&title_color=354A5F&text_color=1B1F23&icon_color=00A6A6&cache_seconds=1800" height="180" alt="Inthira's GitHub statistics"/>
+</a>
+<a href="https://github.com/inthira0317">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=inthira0317&layout=compact&langs_count=8&hide_border=true&bg_color=F5F7F9&title_color=354A5F&text_color=1B1F23&icon_color=00A6A6&cache_seconds=1800" height="180" alt="Inthira's most used programming languages"/>
+</a>
+
+<br><br>
+
+<a href="https://github.com/inthira0317">
+  <img src="https://streak-stats.demolab.com?user=inthira0317&theme=default&hide_border=true&background=F5F7F9&ring=00A6A6&fire=E76500&currStreakLabel=354A5F&sideLabels=354A5F&currStreakNum=1B1F23&sideNums=1B1F23&dates=68737D" height="180" alt="Inthira's GitHub contribution streak"/>
+</a>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=inthira0317&label=Profile%20Views&color=00A6A6&style=for-the-badge" alt="Profile views"/>
 
 </div>
+
+## 📈 Live Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=inthira0317&bg_color=F5F7F9&color=354A5F&line=00A6A6&point=E76500&area_color=00A6A6&area=true&hide_border=true&custom_title=Inthira's%20GitHub%20Contribution%20Activity&cache_seconds=1800" width="100%" alt="Inthira's GitHub contribution activity graph"/>
+
+</div>
+
+---
 
 ## 🤝 Let's Connect
 
@@ -148,23 +157,17 @@ I am always interested in learning, collaborating, and connecting with fellow de
 <div align="center">
 
 <a href="https://www.linkedin.com/in/bminthira">
-  <img
-    src="https://img.shields.io/badge/LinkedIn-bminthira-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
-    alt="LinkedIn"
-  />
+  <img src="https://img.shields.io/badge/LinkedIn-bminthira-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 <a href="https://github.com/inthira0317">
-  <img
-    src="https://img.shields.io/badge/GitHub-inthira0317-1B1F23?style=for-the-badge&logo=github&logoColor=white"
-    alt="GitHub"
-  />
+  <img src="https://img.shields.io/badge/GitHub-inthira0317-1B1F23?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 
 </div>
 
 <div align="center">
 
-### SAP ABAP • RICEF • CDS • OData • RAP • Fiori 
+### `SAP ABAP • RICEF • CDS • OData • RAP • Fiori • Java • C++`
 
 <br>
 
@@ -176,10 +179,6 @@ I am always interested in learning, collaborating, and connecting with fellow de
 
 <div align="center">
 
-<img
-  src="https://capsule-render.vercel.app/api?type=waving&color=0:1B1F23,50:354A5F,100:00A6A6&height=120&section=footer"
-  width="100%"
-  alt="Footer"
-/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1B1F23,50:354A5F,100:00A6A6&height=120&section=footer" width="100%" alt="Footer"/>
 
 </div>

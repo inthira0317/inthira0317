@@ -24,7 +24,7 @@
 
 ### 🙋 About Me
 
-I build practical **SAP ABAP** solutions — RICEF (Reports, Interfaces, Conversions, Enhancements, Forms) and business logic — and write general-purpose code in **Java** and **C++**.
+I build practical **SAP ABAP** solutions — RICEF (Reports, Interfaces, Conversions, Enhancements, Forms) for the business logic .
 
 Currently deepening my skills in **Modern ABAP**: OO ABAP, CDS Views, OData, RAP, Fiori, ABAP Cloud, and SAP BTP.
 
@@ -72,6 +72,14 @@ Currently deepening my skills in **Modern ABAP**: OO ABAP, CDS Views, OData, RAP
 </div>
 
 ---
+
+<div align="center">
+
+### `ABAP • Java • C++ • Debug • Build • Improve 🚀`
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:005B82,50:087EA4,100:0FAAFF&height=120&section=footer" width="100%"/>
 
 <div align="center">
 

@@ -41,9 +41,9 @@
 
 ## 🙋 About Me
 
-Hi, I'm **Inthira Priyatharshini**, a passionate **SAP ABAP Developer** focused on building reliable, scalable, and business-oriented enterprise solutions.
+Hi, I'm **Inthira Priyatharshini**, a passionate **SAP ABAP Developer** focused on building reliable, scalable and business-oriented enterprise solutions.
 
-I enjoy transforming business requirements into efficient SAP applications using clean code, structured development practices, and modern SAP technologies.
+I enjoy transforming business requirements into efficient SAP applications using clean code, structured development practices and modern SAP technologies.
 
 My interests include:
 
@@ -56,9 +56,7 @@ My interests include:
 - SAP Fiori
 - ABAP Cloud
 - SAP Business Technology Platform
-- Problem-solving and algorithmic thinking
 
----
 
 ## 🛠️ Technical Skills
 
@@ -77,8 +75,6 @@ My interests include:
 <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/>
 
 </div>
-
----
 
 ## 📌 SAP Expertise
 
@@ -103,8 +99,6 @@ My interests include:
 - ABAP Cloud
 - SAP Business Technology Platform
 
----
-
 ## 📚 Currently Learning
 
 - Advanced Object-Oriented ABAP
@@ -114,10 +108,6 @@ My interests include:
 - SAP Fiori application development
 - ABAP Cloud
 - SAP BTP
-- Data structures and algorithms
-- Clean code and scalable software design
-
----
 
 ## 💻 Coding Profiles
 
@@ -138,7 +128,6 @@ My interests include:
 
 </div>
 
----
 
 ## 📊 GitHub Statistics
 
@@ -194,11 +183,9 @@ I am always interested in learning, collaborating, and connecting with fellow de
 
 </div>
 
----
-
 <div align="center">
 
-### `SAP ABAP • RICEF • CDS • OData • RAP • Fiori • Java • C++`
+### SAP ABAP • RICEF • CDS • OData • RAP • Fiori 
 
 <br>
 

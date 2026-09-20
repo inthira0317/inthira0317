@@ -173,22 +173,6 @@ My interests include:
 
 </div>
 
----
-
-## 📈 Contribution Activity
-
-<div align="center">
-
-<img
-  src="https://github-readme-activity-graph.vercel.app/graph?username=inthira0317&bg_color=F5F7F9&color=354A5F&line=00A6A6&point=E76500&area_color=00A6A6&area=true&hide_border=false&custom_title=Inthira's%20GitHub%20Contribution%20Activity"
-  width="100%"
-  alt="GitHub contribution activity graph"
-/>
-
-</div>
-
----
-
 ## 🤝 Let's Connect
 
 I am always interested in learning, collaborating, and connecting with fellow developers and SAP professionals.

@@ -4,7 +4,7 @@
 
 <a href="https://readme-typing-svg.demolab.com/">
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=26&pause=1000&color=0FAAFF&center=true&vCenter=true&width=650&lines=I'm+Inthira+Priyatharshini;I'm+a+SAP+ABAP+Developer" alt="Typing SVG" />
-</a>
+</a> 
 
 <br>
 

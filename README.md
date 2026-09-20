@@ -2,7 +2,17 @@
 
 ### SAP ABAP Developer
 
-SAP ABAP Developer with hands-on experience in **SAP MM and SAP HR** focused on developing RICEF using ABAP.
+$ whoami
+
+inthira@SAP:~$ cat skills.txt
+
+ABAP        ████████████████████  90%
+ALV         ██████████████████░░  85%
+SmartForms  ██████████████████░░  85%
+Open SQL    █████████████████░░░  80%
+SAP MM      █████████████████░░░  80%
+SAP HR      ████████████████░░░░  75%
+RAP         ███████████░░░░░░░░░  55%
 
 
 ## 💻 Technical Skills

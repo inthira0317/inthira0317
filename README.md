@@ -1,4 +1,3 @@
-
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=rect&height=190&color=0:0D1117,45:123B4A,100:00BFA6&text=INTHIRA%20PRIYATHARSHINI&fontColor=FFFFFF&fontSize=36&fontAlignY=42&desc=SAP%20ABAP%20%7C%20ENTERPRISE%20APPLICATION%20DEVELOPMENT&descSize=13&descAlignY=65&animation=fadeIn" width="100%" />
